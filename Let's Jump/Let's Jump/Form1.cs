@@ -19,7 +19,7 @@ namespace Let_s_Jump
         bool dead = false;
         int jumpSpeed = 18; 
         int force = 20; 
-        int obstacleSpeed = 150; 
+        int obstacleSpeed = 300; 
         Random rnd = new Random();
         int score = 0, bestScore = 0;
        
